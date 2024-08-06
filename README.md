@@ -13,7 +13,7 @@ Insert three records into the "students" table with fictitious data.
 - **Problem 3:**
 Select all students from the "students" table.
 
-### [Intermediate Level](./src/level_basic.sql)
+### [Intermediate Level](./src/level_medium.sql)
 
 - Problem 4:
 Update the record of the student with id 2 to change his last name to "Rodriguez".
@@ -24,7 +24,7 @@ Delete the record of the student with id 3.
 - Problem 6:
 Select only the students born after January 1, 1990.
 
-### [Advanced Level](./src/level_basic.sql)
+### [Advanced Level](./src/level_hard.sql)
 
 - Problem 7:
 Create a new table called "classes" with the fields: id (integer), first_name (string), credits (integer). Next, create a table "enrollments" that relates students to classes, with the fields: student_id (integer), class_id (integer).

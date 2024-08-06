@@ -29,7 +29,7 @@ inner join  classes as c
 on i.id_clases =  c.id
 
 /*
- * problem_8
+ * problem_9
  */
 
 select s.name, sum(credits) from inscriptions as i
