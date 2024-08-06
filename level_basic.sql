@@ -1,8 +1,8 @@
 -- file: init-sql
 
 /*
-exercise_1
-*/
+ * exercise_1
+ */
 
 CREATE SCHEMA `school`;
 
@@ -17,13 +17,13 @@ CREATE TABLE `school`.`students` (
 );
 
 /*
-exercise_2
-*/
+ * exercise_2
+ */
 
 INSERT INTO `school`.`students` VALUES (1, 'kevin', 'perez borges', '2010-05-14'),(2, 'natalie', 'membrides borges', '2018-11-19'),(3, 'yanet', 'borges lescano', '1990-01-23');
 
 /*
-exercise_3
-*/
+ * exercise_3
+ */
 
 SELECT `name` FROM `students` 
