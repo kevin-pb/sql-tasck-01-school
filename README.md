@@ -1,5 +1,7 @@
 # sql-tasck-01-school 
 
+![model-er](./rsc/model-er.jpg)
+
 ### [Basic level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_basic.sql)
 
 - Problem 1:
