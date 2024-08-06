@@ -2,7 +2,7 @@
 
 ![model-er](./rsc/model-er.jpg)
 
-### [Basic level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_basic.sql)
+### [Basic level](./src/level_basic.sql)
 
 - **Problem 1:**
 Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).
@@ -13,7 +13,7 @@ Insert three records into the "students" table with fictitious data.
 - **Problem 3:**
 Select all students from the "students" table.
 
-### [Intermediate Level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_medium.sql)
+### [Intermediate Level](./src/level_basic.sql)
 
 - Problem 4:
 Update the record of the student with id 2 to change his last name to "Rodriguez".
@@ -24,7 +24,7 @@ Delete the record of the student with id 3.
 - Problem 6:
 Select only the students born after January 1, 1990.
 
-### [Advanced Level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_hard.sql)
+### [Advanced Level](./src/level_basic.sql)
 
 - Problem 7:
 Create a new table called "classes" with the fields: id (integer), first_name (string), credits (integer). Next, create a table "enrollments" that relates students to classes, with the fields: student_id (integer), class_id (integer).
