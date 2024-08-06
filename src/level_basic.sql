@@ -1,7 +1,7 @@
 -- file: init-sql
 
 /*
- * exercise_1
+ * problem_1
  */
 
 CREATE SCHEMA `school`;
@@ -17,13 +17,13 @@ CREATE TABLE `school`.`students` (
 );
 
 /*
- * exercise_2
+ * problem_2
  */
 
 INSERT INTO `school`.`students` VALUES (1, 'kevin', 'perez borges', '2010-05-14'),(2, 'natalie', 'membrides borges', '2018-11-19'),(3, 'yanet', 'borges lescano', '1990-01-23');
 
 /*
- * exercise_3
+ * problem_3
  */
 
 SELECT `name` FROM `students` 
