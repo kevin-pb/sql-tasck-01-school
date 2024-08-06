@@ -1,6 +1,6 @@
 # sql-tasck-01-school 
 
-### Basic level
+### [Basic level] (https://github.com/kevin-pb/sql-tasck-01-school/commit/bd2f05d1cf9097ac0c4279430f3653742c600435)
 
 - Problem 1:
 Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).
