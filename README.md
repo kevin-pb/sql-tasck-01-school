@@ -38,6 +38,8 @@ Calculate the total number of credits that each student is taking.
 - Problem 10 (coming soon):
 Write a query that lists the students who are not enrolled in any class.
 
+![join-model](./rsc/joins-model.webp)
+
 ## Install 
 To install do you need to execute this code in the cmd
 
@@ -56,6 +58,7 @@ once you execute the command do you need to execute in the file in the file wher
 ```
 docker-compose up -d 
 ```
+
 
 ### Worckbench
 
