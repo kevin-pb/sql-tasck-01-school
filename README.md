@@ -4,13 +4,13 @@
 
 ### [Basic level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_basic.sql)
 
-- Problem 1:
+- **Problem 1:**
 Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).
 
--  Problem 2:
+-  **Problem 2:**
 Insert three records into the "students" table with fictitious data.
 
-- Problem 3:
+- **Problem 3:**
 Select all students from the "students" table.
 
 ### [Intermediate Level](https://github.com/kevin-pb/sql-tasck-01-school/blob/main/level_medium.sql)
