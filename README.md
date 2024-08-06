@@ -16,4 +16,4 @@ docker-compose up -d
 
 ### Worckbench
 
-Now you need to download MySQL Workbench 
+Now you need to download MySQL Workbench once you download MySQL Workbench you can charge and run the follow files, they are located in the main file (sql-)
