@@ -15,27 +15,27 @@ Select all students from the "students" table.
 
 ### [Intermediate Level](./src/level_medium.sql)
 
-- Problem 4:
+-: **Problem 4:**
 Update the record of the student with id 2 to change his last name to "Rodriguez".
 
-- Problem 5:
+- **Problem 5:**
 Delete the record of the student with id 3.
 
-- Problem 6:
+- **Problem 6:**
 Select only the students born after January 1, 1990.
 
 ### [Advanced Level](./src/level_hard.sql)
 
-- Problem 7:
+- **Problem 7:**
 Create a new table called "classes" with the fields: id (integer), first_name (string), credits (integer). Next, create a table "enrollments" that relates students to classes, with the fields: student_id (integer), class_id (integer).
 
-- Problem 8:
+- **Problem 8:**
 Write a query that displays the names of the students along with the names of the classes in which they are enrolled.
 
-- Problem 9 (coming soon):
+- **Problem 9 :**
 Calculate the total number of credits that each student is taking.
 
-- Problem 10 (coming soon):
+- **Problem 10 :**
 Write a query that lists the students who are not enrolled in any class.
 
 ![join-model](./rsc/joins-model.webp)
