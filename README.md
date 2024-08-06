@@ -64,7 +64,7 @@ docker-compose up -d
 
 Now you need to download MySQL Workbench once you download MySQL Workbench you can charge and run the follow files, they are located in the main file (sql-tasck-01-school):
 
-- level_basic
-- level_hard 
-- level_medium
+- [level_basic](./level_basic.sql)
+- [level_medium](./level_medium.sql)
+- [level_hard](./level_hard.sql) 
 
