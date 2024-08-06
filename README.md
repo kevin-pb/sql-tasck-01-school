@@ -2,39 +2,39 @@
 
 ### Basic level
 
-- ```  Problem 1:
-Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).```
+- Problem 1:
+Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).
 
-- ``` Problem 2:
-Insert three records into the "students" table with fictitious data.```
+-  Problem 2:
+Insert three records into the "students" table with fictitious data.
 
-- ``` Problem 3:
-Select all students from the "students" table.```
+- Problem 3:
+Select all students from the "students" table.
 
 ### Intermediate Level
 
-- ```Problem 4:
-Update the record of the student with id 2 to change his last name to "Rodriguez".```
+- Problem 4:
+Update the record of the student with id 2 to change his last name to "Rodriguez".
 
-- ```Problem 5:
-Delete the record of the student with id 3.```
+- Problem 5:
+Delete the record of the student with id 3.
 
-- ```Problem 6:
-Select only the students born after January 1, 1990.```
+- Problem 6:
+Select only the students born after January 1, 1990.
 
 ### Advanced Level
 
-- ```Problem 7:
-Create a new table called "classes" with the fields: id (integer), first_name (string), credits (integer). Next, create a table "enrollments" that relates students to classes, with the fields: student_id (integer), class_id (integer).```
+- Problem 7:
+Create a new table called "classes" with the fields: id (integer), first_name (string), credits (integer). Next, create a table "enrollments" that relates students to classes, with the fields: student_id (integer), class_id (integer).
 
-- ```Problem 8:
-Write a query that displays the names of the students along with the names of the classes in which they are enrolled.```
+- Problem 8:
+Write a query that displays the names of the students along with the names of the classes in which they are enrolled.
 
-- ```Problem 9 (coming soon):
-Calculate the total number of credits that each student is taking.``` 
+- Problem 9 (coming soon):
+Calculate the total number of credits that each student is taking.
 
-- ```Problem 10 (coming soon):
-Write a query that lists the students who are not enrolled in any class.``` 
+- Problem 10 (coming soon):
+Write a query that lists the students who are not enrolled in any class.
 
 ## Install 
 To install do you need to execute this code in the cmd
