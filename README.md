@@ -2,7 +2,7 @@
 
 ### Basic level
 
-- ``` Problem 1:
+- ```  Problem 1:
 Create a database called "school" and within it a table called "students" with the following fields: id (integer), first_name (string), last_name (string), date_of_birth (date).```
 
 - ``` Problem 2:
