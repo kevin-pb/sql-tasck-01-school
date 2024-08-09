@@ -22,11 +22,10 @@ ALTER TABLE inscriptions ADD CONSTRAINT FOREIGN KEY (`id_students`) REFERENCES s
  * problem_8
  */
 
-select s.name, c.name from inscriptions as i
-inner join students as s
-on i.id_students =  s.id
-inner join  classes as c
-on i.id_clases =  c.id
+select s.name, c.name 
+from inscriptions as i
+inner join students as son i.id_students =  s.id
+inner join  classes as con i.id_clases =  c.id
 
 /*
  * problem_9
