@@ -4,7 +4,7 @@
 
 **This is a graphical representation:** 
 
-![model-er](./rsc/model-er.jpg)
+![model-er](./rsc/Diagrama-sin-título2)
 
 
 **This are the problems to resolve:**
