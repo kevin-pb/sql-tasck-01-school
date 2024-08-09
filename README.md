@@ -1,11 +1,13 @@
 # sql-tasck-01-school 
 
-**In this proyect i make a database inspired by a school**
+**In this proyect i make a database inspired by a school with information about students, classes, etc.**
+
+**This is a graphical representation:** 
 
 ![model-er](./rsc/model-er.jpg)
 
 
-This are the problems to resolve:
+**This are the problems to resolve:**
 
 ### [Basic level](./src/level_basic.sql)
 
@@ -18,6 +20,8 @@ Insert three records into the "students" table with fictitious data.
 - **Problem 3:**
 Select all students from the "students" table.
 
+[Solution](./src/level_basic.sql)
+
 ### [Intermediate Level](./src/level_medium.sql)
 
 -: **Problem 4:**
@@ -28,6 +32,8 @@ Delete the record of the student with id 3.
 
 - **Problem 6:**
 Select only the students born after January 1, 1990.
+
+[Solution](./src/level_medium.sql)
 
 ### [Advanced Level](./src/level_hard.sql)
 
@@ -42,6 +48,12 @@ Calculate the total number of credits that each student is taking.
 
 - **Problem 10 :**
 Write a query that lists the students who are not enrolled in any class.
+
+
+[Solution](./src/level_hard.sql)
+
+
+## Notas
 
 ![join-model](./rsc/joins-model.webp)
 
