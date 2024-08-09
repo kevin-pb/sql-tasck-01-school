@@ -1,4 +1,4 @@
-# sql-tasck-01-school 
+# School Database Project sql
 
 **In this proyect i make a database inspired by a school with information about students, classes, etc.**
 
