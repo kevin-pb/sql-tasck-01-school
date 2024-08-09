@@ -1,6 +1,6 @@
 # sql-tasck-01-school 
 
-** In this proyect i make a database inspired by a school **
+**In this proyect i make a database inspired by a school**
 
 ![model-er](./rsc/model-er.jpg)
 
