@@ -1,6 +1,11 @@
 # sql-tasck-01-school 
 
+** In this proyect i make a database inspired by a school **
+
 ![model-er](./rsc/model-er.jpg)
+
+
+This are the problems to resolve:
 
 ### [Basic level](./src/level_basic.sql)
 
