@@ -4,7 +4,7 @@
 
 **This is a graphical representation:** 
 
-![model-er](./rsc/Model_1.drawio)
+![model-er](./rsc/Model_1.drawio.png)
 
 
 **This are the problems to resolve:**
